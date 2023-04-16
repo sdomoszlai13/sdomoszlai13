@@ -4,7 +4,7 @@ Hi 👋 My name is Sebastian Domoszlai
 Physicist, Software Developer & Electronics Geek
 ------------------------------------------------
 
-I've been writing programs, and soldering electronic circuits the past few years constantly. Recently, I got into Machine Learning and Data Science - the journey will never end.
+I've been writing programs, and soldering electronic circuits the past few years constantly. Recently, I got into Machine Learning and Data Science, and an end of the journey is not in sight.
 
 *   🌍  I'm based in Hungary
 *   🖥️  See my portfolio at [Discovering Machine Learning & Embedded Systems](http://sdomoszlai13.github.io)
