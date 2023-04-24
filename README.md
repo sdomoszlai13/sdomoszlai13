@@ -43,3 +43,5 @@ I've been writing programs, and soldering electronic circuits the past few years
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/sdomoszlai13/weather-station" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sdomoszlai13&repo=weather-station&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sdomoszlai13/spring-mass-system-simulator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sdomoszlai13&repo=spring-mass-system-simulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) 
