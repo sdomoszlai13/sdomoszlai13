@@ -1,7 +1,7 @@
 Hi 👋 My name is Sebastian Domoszlai
 ====================================
 
-Physicist, Software Developer & Electronics Geek
+Software Developer, Physicist & Electronics Geek
 ------------------------------------------------
 
 I've been writing programs, and soldering electronic circuits the past few years constantly. Recently, I got into Machine Learning and Data Science, and an end of the journey is not in sight.
