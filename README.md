@@ -1,4 +1,4 @@
-Hi 👋 My name is Sebastian Domoszlai
+Hi 👋 My Name is Sebastian Domoszlai
 ====================================
 
 Software Developer, Physicist & Electronics Geek
