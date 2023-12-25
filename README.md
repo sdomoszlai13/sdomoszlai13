@@ -6,10 +6,10 @@ Software Developer, Physicist & Electronics Geek
 
 I've been writing programs, and soldering electronic circuits since my youth. My topics of interest are embedded software development, electric circuit design, and physics simulations. Ideally, there's a component of aviation in the project, too. Recently, I got into Machine Learning, and an end of the journey is not in sight.
 
-*   🌍  I'm based in Hungary
+*   🌍  I'm based in Switzerland
 *   🖥️  See my portfolio at [Discovering Machine Learning & Embedded Systems](http://sdomoszlai13.github.io)
 *   ✉️  You can contact me at [sebastian.domoszlai@protonmail.com](mailto:sebastian.domoszlai@protonmail.com)
-*   🧠  I'm learning embedded Linux development and TensorFlow
+*   🧠  I'm learning embedded Linux development
 *   🤝  I'm collaborating on open-source CircuitPython libraries and open to similar projects
 *   ⚡  You'd be surprised how well the hobby of 3D printing matches software development...
 
