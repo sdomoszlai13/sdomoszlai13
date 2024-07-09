@@ -10,7 +10,7 @@ I've been writing programs, and soldering electronic circuits since my youth. My
 *   🖥️  See my portfolio at [The That-Looks-Exciting-Let’s-Explore-it Blog](http://sdomoszlai13.github.io)
 *   ✉️  You can contact me at [sebastian.domoszlai@protonmail.com](mailto:sebastian.domoszlai@protonmail.com)
 *   🧠  I'm learning embedded Linux development
-*   🤝  I'm collaborating on open-source CircuitPython libraries and open to similar projects
+*   🤝  I'm collaborating on my own embedded or SDR-related projects and am open to collaborate on similar topics
 *   ⚡  You'd be surprised how well the hobby of 3D printing matches software development...
 
 ### Skills 
